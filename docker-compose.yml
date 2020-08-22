@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  firstmacvsconsole:
+    image: ${DOCKER_REGISTRY-}firstmacvsconsole
+    build:
+      context: .
+      dockerfile: firstmacvsconsole/Dockerfile

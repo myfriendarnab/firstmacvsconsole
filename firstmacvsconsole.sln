@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstmacvsconsole", "firstmacvsconsole\firstmacvsconsole.csproj", "{97EF5A75-C568-40CF-A600-1ED840A5BD7F}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F2AF04CE-7182-44BD-B907-094F4E2C34B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{97EF5A75-C568-40CF-A600-1ED840A5BD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97EF5A75-C568-40CF-A600-1ED840A5BD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97EF5A75-C568-40CF-A600-1ED840A5BD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AF04CE-7182-44BD-B907-094F4E2C34B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AF04CE-7182-44BD-B907-094F4E2C34B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AF04CE-7182-44BD-B907-094F4E2C34B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AF04CE-7182-44BD-B907-094F4E2C34B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
